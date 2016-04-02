@@ -10,8 +10,7 @@ When that is done, the extension generates an element in the bottom right corner
 
 #Installation
 
-In order to install the Chrome extension, you must [download the chrome extension file](/Survivor Subreddit Tribe Viewer.crx?raw=true) 
-Doing so will give you a warning about the file being potentially harmful to your computer. This is a general warning that is given about 
+In order to install the Chrome extension, you must [download the chrome extension file](/Survivor Subreddit Tribe Viewer.crx?raw=true). Doing so will give you a warning about the file being potentially harmful to your computer. This is a general warning that is given about 
 all .crx files. There is nothing in this extension that can harm your computer. Click *Keep* in order to complete the download.
 
 Once the file is downloaded, open the Extensions page in Google Chrome by opening the menu and choosing *More tools* -> *Extensions*.
